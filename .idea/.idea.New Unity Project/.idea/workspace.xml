@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e51530f-9e9c-4d7b-a7eb-a40d61bd06f5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-766839624">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="95" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="8" />
+          <entry key="project.open.time.12" value="19" />
+          <entry key="project.open.time.13" value="19" />
+          <entry key="project.open.time.14" value="11" />
+          <entry key="project.open.time.15" value="6" />
+          <entry key="project.open.time.16" value="10" />
+          <entry key="project.open.time.17" value="3" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.29" value="2" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.99" value="1" />
+          <entry key="project.opened" value="95" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="7087" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="7087" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="22" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5263466">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="510">
+                  <caret line="105" column="23" selection-start-line="105" selection-start-column="23" selection-end-line="105" selection-end-column="23" />
+                  <folding>
+                    <marker date="1551051541521" expanded="true" signature="6:136" ph="..." />
+                    <marker date="1551051541521" expanded="true" signature="178:3906" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="390:435" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="646:761" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="809:853" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="903:1089" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="1108:1459" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="1149:1241" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="1270:1327" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="1373:1419" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="1491:1675" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="1708:1846" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="1885:2392" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="1942:2386" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="2433:2592" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="2498:2561" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="2640:2725" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="2761:3057" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="2858:3031" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="3085:3371" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="3201:3365" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="3402:3904" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="3457:3530" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="3569:3723" ph="{...}" />
+                    <marker date="1551051541521" expanded="true" signature="3736:3898" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Assets/Scripts/QuestObject.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="850">
+                  <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+                  <folding>
+                    <marker date="1551051572100" expanded="false" signature="6:40" ph="..." />
+                    <marker date="1551051572100" expanded="true" signature="82:1555" ph="{...}" />
+                    <marker date="1551051572100" expanded="true" signature="180:257" ph="{...}" />
+                    <marker date="1551051572100" expanded="true" signature="307:350" ph="{...}" />
+                    <marker date="1551051572100" expanded="true" signature="436:491" ph="{...}" />
+                    <marker date="1551051572100" expanded="true" signature="557:611" ph="{...}" />
+                    <marker date="1551051572100" expanded="true" signature="645:1322" ph="{...}" />
+                    <marker date="1551051572100" expanded="true" signature="760:1037" ph="{...}" />
+                    <marker date="1551051572100" expanded="true" signature="1050:1316" ph="{...}" />
+                    <marker date="1551051572100" expanded="true" signature="1357:1476" ph="{...}" />
+                    <marker date="1551051572100" expanded="true" signature="1507:1553" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/QuestObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/CameraRotateAround.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/CharacterController.cs" />
+        <option value="$PROJECT_DIR$/Assets/VaseController.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraRotate.cs" />
+        <option value="$PROJECT_DIR$/Assets/QuestObjectDeskription.cs" />
+        <option value="$PROJECT_DIR$/Assets/QuestObjectDescription.cs" />
+        <option value="$PROJECT_DIR$/Assets/SquareController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Prefabs.cs" />
+        <option value="$PROJECT_DIR$/Assets/MouseController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraController.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/QuestObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/ColumnController.cs" />
+        <option value="$PROJECT_DIR$/Assets/JarController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/QuestObject.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1103" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e51530f-9e9c-4d7b-a7eb-a40d61bd06f5" name="Default Changelist" comment="" />
+      <created>1550438204329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550438204329</updated>
+      <workItem from="1550438227567" duration="57000" />
+      <workItem from="1550439433588" duration="1739000" />
+      <workItem from="1550441357864" duration="1515000" />
+      <workItem from="1550443185584" duration="1774000" />
+      <workItem from="1550445186336" duration="1011000" />
+      <workItem from="1550487669752" duration="973000" />
+      <workItem from="1550489469447" duration="1357000" />
+      <workItem from="1550491299491" duration="1781000" />
+      <workItem from="1550493429072" duration="1714000" />
+      <workItem from="1550495414854" duration="1777000" />
+      <workItem from="1550497242282" duration="1961000" />
+      <workItem from="1550499384290" duration="599000" />
+      <workItem from="1550501357544" duration="1778000" />
+      <workItem from="1550503279379" duration="1670000" />
+      <workItem from="1550505100189" duration="1616000" />
+      <workItem from="1550510833276" duration="827000" />
+      <workItem from="1550518362949" duration="1690000" />
+      <workItem from="1550521541649" duration="1035000" />
+      <workItem from="1550523477807" duration="1778000" />
+      <workItem from="1550525308696" duration="954000" />
+      <workItem from="1550527282923" duration="868000" />
+      <workItem from="1550602973868" duration="895000" />
+      <workItem from="1550690866567" duration="1061000" />
+      <workItem from="1550741836762" duration="1611000" />
+      <workItem from="1550743566733" duration="599000" />
+      <workItem from="1550757734802" duration="1555000" />
+      <workItem from="1550759774399" duration="1243000" />
+      <workItem from="1550761726153" duration="968000" />
+      <workItem from="1550766072957" duration="1188000" />
+      <workItem from="1550767904910" duration="1089000" />
+      <workItem from="1550769784208" duration="1770000" />
+      <workItem from="1550771606210" duration="1772000" />
+      <workItem from="1550773874358" duration="1737000" />
+      <workItem from="1550775733370" duration="948000" />
+      <workItem from="1550776722818" duration="1592000" />
+      <workItem from="1550778761328" duration="1223000" />
+      <workItem from="1550780587697" duration="599000" />
+      <workItem from="1550788632443" duration="1629000" />
+      <workItem from="1550790332938" duration="1771000" />
+      <workItem from="1550792226958" duration="1772000" />
+      <workItem from="1550794062714" duration="1039000" />
+      <workItem from="1550828446144" duration="1747000" />
+      <workItem from="1550830409663" duration="902000" />
+      <workItem from="1550836030756" duration="717000" />
+      <workItem from="1550837915879" duration="1771000" />
+      <workItem from="1550839739215" duration="733000" />
+      <workItem from="1550844502460" duration="1778000" />
+      <workItem from="1550846461877" duration="1659000" />
+      <workItem from="1550848307694" duration="1272000" />
+      <workItem from="1550851140490" duration="1776000" />
+      <workItem from="1550853302411" duration="1777000" />
+      <workItem from="1550855204351" duration="1524000" />
+      <workItem from="1550857158559" duration="641000" />
+      <workItem from="1550859066535" duration="1545000" />
+      <workItem from="1550860888726" duration="1712000" />
+      <workItem from="1550862700920" duration="1657000" />
+      <workItem from="1550864572094" duration="1537000" />
+      <workItem from="1550866397421" duration="1775000" />
+      <workItem from="1550868937626" duration="1645000" />
+      <workItem from="1550870792093" duration="1779000" />
+      <workItem from="1550872620104" duration="874000" />
+      <workItem from="1550874278497" duration="1460000" />
+      <workItem from="1550876424357" duration="699000" />
+      <workItem from="1550879233719" duration="738000" />
+      <workItem from="1550881080319" duration="1782000" />
+      <workItem from="1550883065306" duration="694000" />
+      <workItem from="1550923187768" duration="1738000" />
+      <workItem from="1550924980302" duration="848000" />
+      <workItem from="1550928014666" duration="1771000" />
+      <workItem from="1550929827766" duration="1780000" />
+      <workItem from="1550933471547" duration="1505000" />
+      <workItem from="1550962045876" duration="593000" />
+      <workItem from="1550963854579" duration="1463000" />
+      <workItem from="1550965872506" duration="1793000" />
+      <workItem from="1550967714240" duration="1055000" />
+      <workItem from="1551001278686" duration="596000" />
+      <workItem from="1551003583262" duration="1134000" />
+      <workItem from="1551007315220" duration="1792000" />
+      <workItem from="1551009147902" duration="1784000" />
+      <workItem from="1551010984017" duration="1645000" />
+      <workItem from="1551012833186" duration="1806000" />
+      <workItem from="1551014680090" duration="1782000" />
+      <workItem from="1551016502557" duration="1776000" />
+      <workItem from="1551018338888" duration="1820000" />
+      <workItem from="1551020327128" duration="1374000" />
+      <workItem from="1551022185979" duration="851000" />
+      <workItem from="1551024140270" duration="700000" />
+      <workItem from="1551031689263" duration="1707000" />
+      <workItem from="1551033459319" duration="1768000" />
+      <workItem from="1551035271047" duration="1520000" />
+      <workItem from="1551038095858" duration="1295000" />
+      <workItem from="1551039939915" duration="1461000" />
+      <workItem from="1551044890110" duration="1773000" />
+      <workItem from="1551046731517" duration="1776000" />
+      <workItem from="1551051152870" duration="1016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="130651000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09008529" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/CharacterController.cs" />
+    <entry file="file://$USER_HOME$/Desktop/CameraRotateAround.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/QuestObjectDeskription.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/QuestObjectDescription.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Prefabs.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/MouseController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CameraRotate.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CameraController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/QuestObject.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/ColumnController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UiManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SquareController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/JarController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="105" column="23" selection-start-line="105" selection-start-column="23" selection-end-line="105" selection-end-column="23" />
+          <folding>
+            <marker date="1551051541521" expanded="true" signature="6:136" ph="..." />
+            <marker date="1551051541521" expanded="true" signature="178:3906" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="390:435" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="646:761" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="809:853" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="903:1089" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="1108:1459" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="1149:1241" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="1270:1327" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="1373:1419" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="1491:1675" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="1708:1846" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="1885:2392" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="1942:2386" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="2433:2592" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="2498:2561" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="2640:2725" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="2761:3057" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="2858:3031" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="3085:3371" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="3201:3365" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="3402:3904" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="3457:3530" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="3569:3723" ph="{...}" />
+            <marker date="1551051541521" expanded="true" signature="3736:3898" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/QuestObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+          <folding>
+            <marker date="1551051572100" expanded="false" signature="6:40" ph="..." />
+            <marker date="1551051572100" expanded="true" signature="82:1555" ph="{...}" />
+            <marker date="1551051572100" expanded="true" signature="180:257" ph="{...}" />
+            <marker date="1551051572100" expanded="true" signature="307:350" ph="{...}" />
+            <marker date="1551051572100" expanded="true" signature="436:491" ph="{...}" />
+            <marker date="1551051572100" expanded="true" signature="557:611" ph="{...}" />
+            <marker date="1551051572100" expanded="true" signature="645:1322" ph="{...}" />
+            <marker date="1551051572100" expanded="true" signature="760:1037" ph="{...}" />
+            <marker date="1551051572100" expanded="true" signature="1050:1316" ph="{...}" />
+            <marker date="1551051572100" expanded="true" signature="1357:1476" ph="{...}" />
+            <marker date="1551051572100" expanded="true" signature="1507:1553" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

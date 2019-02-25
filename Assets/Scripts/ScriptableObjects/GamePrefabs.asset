@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: GamePrefabs
+  m_EditorClassIdentifier: Assembly-CSharp::GamePrefabs
+  Player: {fileID: 5399841796618862499, guid: 8a090fb689c9e00438ccd2fc3f48a023, type: 3}
+  QuestsObjects:
+  - {fileID: 11400000, guid: 8592d5bf3faccdf489cc771802dcff2f, type: 2}
+  - {fileID: 11400000, guid: da0c6739ce8d1804d9cc93593899202f, type: 2}
+  - {fileID: 11400000, guid: a4f56147f760f304781a10ff6eca11d4, type: 2}
+  Success: {fileID: 1689833308672374, guid: 91a4af0a486a0734ba2d07393a8d3233, type: 3}
+  Fail: {fileID: 1171821569480442, guid: 24f1778922bb4dd4e9ff05b70af84348, type: 3}
