@@ -25,8 +25,6 @@ public class ColumnController : QuestObject
         {
             ActivateObject();
         }
-        
-        //Debug.Log("_angle " + _angle + " _previousPosition " + _previousPosition);
     }
 
     private void UpdateAngle()

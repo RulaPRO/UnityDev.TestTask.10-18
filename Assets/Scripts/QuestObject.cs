@@ -5,10 +5,10 @@ public class QuestObject : MonoBehaviour
 {
     public GameManager GameManager;
 
-    private Transform _player;
-    public Transform Player
+    private PlayerController _player;
+    public PlayerController Player
     {
-        get { return _player; }
+        protected get { return _player; }
         set { _player = value; }
     }
     

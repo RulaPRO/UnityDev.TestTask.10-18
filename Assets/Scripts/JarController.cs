@@ -2,16 +2,11 @@
 
 public class JarController : QuestObject
 {
-    void Update()
+    private void OnCollisionStay(Collision other)
     {
-        if (Vector3.Distance(transform.position, Player.transform.position) <= 3f)
+        if (Player.Attack && other.gameObject.name.Equals("Sword"))
         {
             ActivateObject();
         }
-    }
-
-    private void OnCollisionEnter()
-    {
-        ActivateObject();
     }
 }

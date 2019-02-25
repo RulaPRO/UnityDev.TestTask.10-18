@@ -2,32 +2,21 @@
 
 public class SquareController : QuestObject
 {
+    private const float ActivationDistance = 2.5f;
     private Vector3 _previousPosition;
 
     void Update()
     {
-        if (Vector3.Distance(transform.position, Player.transform.position) <= 3f)
+        if (Vector3.Distance(transform.position, Player.transform.position) <= ActivationDistance)
         {
-            ActivateObject();
+            if (_previousPosition == Player.transform.position)
+            {
+                ActivateObject();
+            }
+            else
+            {
+                _previousPosition = Player.transform.position;
+            }  
         }
-    }
-    
-    private void OnCollisionStay(Collision other)
-    {
-        Debug.Log("CollisionStay");
-        if (_previousPosition == other.transform.position)
-        {
-            ActivateObject();
-        }
-        else
-        {
-            SavePosition(other);
-        }
-            
-    }
-
-    private void SavePosition(Collision obj)
-    {
-        _previousPosition = obj.transform.position;
     }
 }

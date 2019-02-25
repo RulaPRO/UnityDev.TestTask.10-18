@@ -2,75 +2,93 @@
 
 public class PlayerController : MonoBehaviour
 {
-    public float Velocity = 0.5f;
-
     private float _sensX;
     public float SensX
     {
         set { _sensX = value; }
     }
 
-    private Vector2 _input;
-
     private Animator _animator;
+    private Vector2 _input;
+    
+    private bool _move;
+    private float _acceleration;
+    private float _accelerationTime = 0.5f;
+    private bool _attack;
+    public bool Attack
+    {
+        get { return _attack; }
+        set { _attack = value; }
+    }
 
     void Start()
     {
         _animator = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         GetInput();
         Rotate();
-        //Move();
     }
 
-    void GetInput()
+    private void GetInput()
     {
         _input.x = Input.GetAxis("Horizontal");
         _input.y = Input.GetAxis("Vertical");
         _animator.SetFloat("BlendX", _input.x);
         _animator.SetFloat("BlendY", _input.y);
+        
+        if (_input != Vector2.zero)
+        {
+            _animator.SetBool("Move", true);
+            if (_animator.GetCurrentAnimatorStateInfo(0).IsName("Walk"))
+            {
+                _acceleration += Time.deltaTime;
+                if (_acceleration >= _accelerationTime)
+                {
+                    _animator.SetTrigger("Run");
+                    _acceleration = 0;
+                }
+            }
+        }
+        else
+        {
+            _animator.SetBool("Move", false);
+        }
+        
         if (Input.GetMouseButtonDown(0))
         {
-            //_animator.SetBool("AttackStrong", false);
-            _animator.SetTrigger(Random.Range(0, 2) == 0 ? "AttackL" : "AttackR");
+            if (!_animator.GetCurrentAnimatorStateInfo(0).IsName("Attack Left") &&
+                !_animator.GetCurrentAnimatorStateInfo(0).IsName("Attack Right"))
+            {
+                _animator.SetTrigger(Random.Range(0, 2) == 0 ? "AttackL" : "AttackR"); 
+            }
         }
         if (Input.GetMouseButtonDown(1))
         {
-            Debug.Log("PMB, AttackStrong");
-            //_animator.SetBool("AttackStrong", true);
-            _animator.SetTrigger("AttackStrong");
+            if (_animator.GetCurrentAnimatorStateInfo(0).IsName("Attack Left") ||
+                _animator.GetCurrentAnimatorStateInfo(0).IsName("Attack Right"))
+            {
+                _animator.SetTrigger("AttackStrong");
+            }
         }
     }
 
-    void Rotate()
+    private void Rotate()
     {
         float rotation = Input.GetAxis("Mouse X") * _sensX;
         Quaternion quaternion = Quaternion.AngleAxis(rotation, Vector3.up);
         transform.localRotation *= quaternion;
     }
 
-    void Move()
+    public void StartAttack()
     {
-        if (_input.x > 0)
-        {
-            //transform.position += transform.right * Velocity * Time.deltaTime;
-        }
-        else if (_input.x < 0)
-        {
-            //transform.position -= transform.right * Velocity * Time.deltaTime;
-        }
-
-        if (_input.y > 0)
-        {
-            //transform.position += transform.forward * Velocity * Time.deltaTime;
-        }
-        else if (_input.y < 0)
-        {
-            //transform.position -= transform.forward * Velocity * Time.deltaTime;
-        }
+        _attack = true;
+    }
+    
+    public void StopAttack()
+    {
+        _attack = false;
     }
 }

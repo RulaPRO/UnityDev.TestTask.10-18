@@ -62,7 +62,6 @@ public class GameManager : MonoBehaviour
         {
             ResetLevel();
         }
-        //Debug.Log(_resetTimer);
     }
 
     private void CreateLevel()
@@ -88,7 +87,7 @@ public class GameManager : MonoBehaviour
         for (int i = 0; i < QuestObjectCount; i++)
         {
             QuestObject questObject = Instantiate(Prefabs.QuestsObjects[_questObjectPriority[i]].Prefab, new Vector3(Random.Range(-21, 20), 0, Random.Range(-21, 20)), Quaternion.identity);
-            questObject.Player = _player.transform;
+            questObject.Player = _player;
             questObject.Text = UiManager.Text[i];
             questObject.ActivationOrder = i;
             questObject.GameManager = this;

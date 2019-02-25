@@ -104,6 +104,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 494a1b9d5e0089d4b9d2a0ee40c1ba7a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SuccessfulActionPrefab: {fileID: 0}
-  FailActionPrefab: {fileID: 0}
-  _text: {fileID: 0}
+  GameManager: {fileID: 0}
