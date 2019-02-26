@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f294a003-0d1d-4167-aeea-0f313bfe92ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.UnityDev.TestTask/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.UnityDev.TestTask/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.UnityDev.TestTask/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.UnityDev.TestTask/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Column3C.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Column3C.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Jar2A.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Jar2A.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Model_Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Model_Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityDev.TestTask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityDev.TestTask/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Square Worship.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Square Worship.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ColumnController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ColumnController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/JarController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/JarController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/QuestObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/QuestObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SquareController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SquareController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Testovoe/Character/animations/Attack_L.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Testovoe/Character/animations/Attack_L.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Testovoe/Character/animations/Attack_R.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Testovoe/Character/animations/Attack_R.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Testovoe/Character/animations/Attack_Strong.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Testovoe/Character/animations/Attack_Strong.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Testovoe/Character/animations/JumpIdleStart.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Testovoe/Character/animations/JumpIdleStart.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Testovoe/Character/animations/PlayerAnimatorController.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Testovoe/Character/animations/PlayerAnimatorController.controller.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,16 +17,17 @@
     <session id="-950877656">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="3" />
-          <entry key="project.open.time.18" value="3" />
+          <entry key="project.open.time.18" value="4" />
           <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.50" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -66,14 +53,14 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.61734027">
+    <splitter split-orientation="horizontal" split-proportion="0.48216644">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-561">
-                  <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+                <state relative-caret-position="170">
+                  <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
                   <folding>
                     <marker date="1551118859013" expanded="true" signature="65:2367" ph="{...}" />
                     <marker date="1551118859013" expanded="true" signature="116:160" ph="{...}" />
@@ -176,10 +163,10 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="476">
+                <state relative-caret-position="986">
                   <caret line="62" column="25" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
                   <folding>
                     <marker date="1551107925999" expanded="false" signature="6:136" ph="..." />
@@ -212,6 +199,24 @@
               </provider>
             </entry>
           </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="85">
+                  <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+                  <folding>
+                    <marker date="1551048285318" expanded="true" signature="65:1517" ph="{...}" />
+                    <marker date="1551048285318" expanded="true" signature="522:572" ph="{...}" />
+                    <marker date="1551048285318" expanded="true" signature="663:708" ph="{...}" />
+                    <marker date="1551048285318" expanded="true" signature="728:818" ph="{...}" />
+                    <marker date="1551048285318" expanded="true" signature="838:1515" ph="{...}" />
+                    <marker date="1551048285318" expanded="true" signature="896:947" ph="{...}" />
+                    <marker date="1551048285318" expanded="true" signature="1004:1055" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
         </leaf>
       </split-second>
     </splitter>
@@ -225,6 +230,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColumnController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/JarController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/QuestObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SquareController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -252,7 +258,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -273,6 +278,7 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -329,12 +335,14 @@
       <workItem from="1551112974320" duration="1730000" />
       <workItem from="1551114825631" duration="1774000" />
       <workItem from="1551116651306" duration="1745000" />
-      <workItem from="1551118556704" duration="302000" />
+      <workItem from="1551118556704" duration="1117000" />
+      <workItem from="1551120743477" duration="599000" />
+      <workItem from="1551123448446" duration="899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18368000" />
+    <option name="totallyTimeSpent" value="20681000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -349,7 +357,7 @@
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19296375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19722815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -460,7 +468,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="986">
           <caret line="62" column="25" selection-start-line="62" selection-start-column="25" selection-end-line="62" selection-end-column="25" />
           <folding>
             <marker date="1551107925999" expanded="false" signature="6:136" ph="..." />
@@ -494,8 +502,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-561">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="170">
+          <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
           <folding>
             <marker date="1551118859013" expanded="true" signature="65:2367" ph="{...}" />
             <marker date="1551118859013" expanded="true" signature="116:160" ph="{...}" />
@@ -514,6 +522,22 @@
             <marker date="1551118859013" expanded="true" signature="2032:2227" ph="{...}" />
             <marker date="1551118859013" expanded="true" signature="2258:2294" ph="{...}" />
             <marker date="1551118859013" expanded="true" signature="2328:2365" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding>
+            <marker date="1551048285318" expanded="true" signature="65:1517" ph="{...}" />
+            <marker date="1551048285318" expanded="true" signature="522:572" ph="{...}" />
+            <marker date="1551048285318" expanded="true" signature="663:708" ph="{...}" />
+            <marker date="1551048285318" expanded="true" signature="728:818" ph="{...}" />
+            <marker date="1551048285318" expanded="true" signature="838:1515" ph="{...}" />
+            <marker date="1551048285318" expanded="true" signature="896:947" ph="{...}" />
+            <marker date="1551048285318" expanded="true" signature="1004:1055" ph="{...}" />
           </folding>
         </state>
       </provider>
